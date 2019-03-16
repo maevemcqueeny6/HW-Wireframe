@@ -169,3 +169,16 @@ input[type=text], select, textarea {
     cursor: pointer;
     border-radius: 5px;
 }
+
+.wrapper {
+  min-height: 100%;
+  margin-bottom: -50px;
+}
+
+.footer, .push {
+  height:50ox;
+}
+
+.footer {
+  background-color: aquamarine;
+}
